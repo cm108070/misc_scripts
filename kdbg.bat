@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Windows Kits\10\Debuggers\x64\windbg.exe" /k com:port=\\192.168.1.2\pipe\kd_win10,pipe,resets=0,reconnect
